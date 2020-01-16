@@ -1,0 +1,33 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  height: 0;
+  width: 3%;
+}
+h1{
+  background-color: #66bfbf;
+  border-radius: 5%;
+}
+h3{
+  color: #66bfbf;
+}
+
+.dp{
+  border-radius: 15%;
+}
+.projects{
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+a{
+  text-decoration: none;
+  color: #ffa259;
+}
+a:hover{
+  color: #fe6845;
+}
